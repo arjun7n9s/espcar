@@ -7,7 +7,7 @@ DC motors of preferred rpm<br>
 Motor driver (L298N used by me)<br>
 Else basic components
 
-# Controlling
+# Controlling :
 I had used blynk iot mobile app to control the car using mobile as remote.<br>
 Just register in the app to get a mail containing sample code, template id and all the requirements.<br>
 Refer the code file for more understanding.<br>
